@@ -54,7 +54,7 @@ An interactive Power BI dashboard built to analyze restaurant food preparation, 
 
 ### Dashboard Preview
 
-![Power BI Dashboard](dashboard_screenshot.png)
+![Power BI Dashboard](Dashboard_screenshot.png)
 
 ### Key Features
 
