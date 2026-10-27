@@ -45,3 +45,34 @@ The analysis can help restaurants monitor surplus quantities, recognize recurrin
 ## Project Status
 
 SQL analysis completed. Query results and validated business findings will be added as the project is documented.
+
+
+
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard built to analyze restaurant food preparation, sales, and surplus.
+
+### Dashboard Preview
+
+![Power BI Dashboard](dashboard_screenshot.png)
+
+### Key Features
+
+* **KPI Cards:** Total food prepared, food sold, food surplus, and surplus percentage.
+* **Restaurant-wise Analysis:** Compare food surplus across restaurants.
+* **Category-wise Analysis:** Analyze surplus across different food categories.
+* **Daily Trend Analysis:** Track food surplus over time.
+
+### Tools & Technologies
+
+* MySQL
+* Microsoft Power BI
+* DAX
+* GitHub
+
+### Project Files
+
+* `food_waste_analysis.sql` — SQL queries used for analysis.
+* `Urban_Food_Waste_Analysis.pbix` — Power BI dashboard file.
+* `dashboard_screenshot.png` — Dashboard preview.
+
